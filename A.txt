@@ -1,1 +1,2 @@
-Contenido del fichero A
+Contenido del fichero A 
+Modificado y otra vez
